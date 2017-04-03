@@ -1,0 +1,22 @@
+     Line is: 0     Token is: 27     Lexeme is:          BEGIN
+     Line is: 1     Token is: 27     Lexeme is:          CHAR
+     Line is: 1     Token is: 11     Lexeme is:          a
+     Line is: 1     Token is: 28     Lexeme is:          ,
+     Line is: 1     Token is: 11     Lexeme is:          b
+     Line is: 2     Token is: 27     Lexeme is:          STRING
+     Line is: 2     Token is: 11     Lexeme is:          c
+     Line is: 2     Token is: 28     Lexeme is:          ,
+     Line is: 2     Token is: 11     Lexeme is:          d
+     Line is: 3     Token is: 27     Lexeme is:          OUTPUT
+     Line is: 3     Token is: 11     Lexeme is:          c
+     Line is: 4     Token is: 27     Lexeme is:          OUTPUT
+     Line is: 4     Token is: 29     Lexeme is:          "
+     Line is: 4     Token is: 30     Lexeme is:          hello
+     Line is: 4     Token is: 29     Lexeme is:          "
+     Line is: 4     Token is: 22     Lexeme is:          -
+____________________________________________________________________________
+Sam Arnold
+CSCI 434, Spring 2017
+____________________________________________________________________________
+
+     Line is: 4     Token is: -1     Lexeme is:          ?

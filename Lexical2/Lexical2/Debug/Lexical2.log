@@ -1,0 +1,5 @@
+﻿  Main.cpp
+c:\users\admin\documents\visual studio 2015\projects\lexical2\lexical2\main.cpp(77): warning C4101: 'len': unreferenced local variable
+c:\users\admin\documents\visual studio 2015\projects\lexical2\lexical2\main.cpp(419): warning C4018: '<': signed/unsigned mismatch
+  Lexical2.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\Projects\Lexical2\Debug\Lexical2.exe
+  Lexical2.vcxproj -> C:\Users\Admin\Documents\Visual Studio 2015\Projects\Lexical2\Debug\Lexical2.pdb (Partial PDB)

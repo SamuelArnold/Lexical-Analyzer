@@ -1,0 +1,6 @@
+BEGIN
+CHAR a, b
+STRING c, d
+OUTPUT c 
+OUTPUT "hello" 
+END
